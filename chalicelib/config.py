@@ -1,0 +1,5 @@
+
+
+BUCKET = 'anton-aws-test-bucket'
+ACCESS_KEY = 'AKIAJWQKNZQVLSJCL7UQ'
+SECRET_KEY = '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'
