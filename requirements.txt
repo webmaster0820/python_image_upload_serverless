@@ -2,7 +2,7 @@ attrs==19.3.0
 autopep8==1.5
 boto3==1.11.9
 botocore==1.14.9
-certifi==2019.11.28
+certifi==2022.12.7
 chalice==1.12.0
 chardet==3.0.4
 Click==7.0
